@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobLogger", "JobLogger\JobLogger.csproj", "{F4F68AC8-9641-4D9E-A309-E59445AB07B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobLogger.Test", "JobLogger.Test\JobLogger.Test.csproj", "{D3F51244-290C-4280-A653-286D5E516272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F68AC8-9641-4D9E-A309-E59445AB07B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F68AC8-9641-4D9E-A309-E59445AB07B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F68AC8-9641-4D9E-A309-E59445AB07B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F68AC8-9641-4D9E-A309-E59445AB07B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F51244-290C-4280-A653-286D5E516272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F51244-290C-4280-A653-286D5E516272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F51244-290C-4280-A653-286D5E516272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F51244-290C-4280-A653-286D5E516272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA12ABD9-DBCE-4472-8954-03578D211C22}
+	EndGlobalSection
+EndGlobal
